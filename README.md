@@ -27,17 +27,23 @@
 
 - 매주 3챕터씩 주차별 학습 일정표에 맞춰 해당 챕터를 미리 공부해요
 - 발표자: 매주 돌아가며 한 명이 발표를 준비해요 (10분 내외)
-- 정리 내용은 본인 id로 브랜치를 생성하여 해당 주차 폴더에 '[내이름].md' 파일로 기록 해주세요 
+- Github 스터디 사용 방법 
+   - 정리 내용은 `AWS-TextBook-Study` 레포지토리를 fork한 후.
+   - 본인 github id로 브랜치를 생성하여 해당 주차 폴더에 '[내이름].md' 파일로 기록 해주세요.
+      - 예) 브랜치 생성 : git checkout -b `MinJeung-Kim`   /  md파일 명 : `김민정`.md
+   - fork한 레포지토리에서 pull-request 요청을 합니다.  
+      - ```contribute -> Open pull request -> Create pull request -> Create pull request```
+      - 참고 : [스터디 GitHub 사용 방법](https://velog.io/@mandarin913/%EC%8A%A4%ED%84%B0%EB%94%94-GitHub-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 - 발표자 외 스터디원:
-    - 해당 챕터에 대한 문제를 스터디 하루 전까지 [discussions > Q&A](https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a)에 올려주세요
+    - 해당 챕터에 대한 문제를 스터디 하루 전까지 [discussions > Q&A](https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a)에 .
     - 질문은 템플릿을 참고하여 작성해 주세요.
-    - 스터디 당일 모임 시작 1시간 전까지 문제의 정답을 업로드해주세요  
+    - 스터디 당일 모임 시작 1시간 전까지 문제의 정답을 업로드해주세요.
+ 
 
  
 <br />
 
 ###  🌱 스터디 함께하기 가이드라인 🌱
-
 - 서로의 의견을 존중하고 건설적인 피드백을 나눠요.  
 - 매 모임마다 10분 정도 자신이 공부한 내용을 편하게 공유해요.  
 - 참석이 어려울 땐 하루 전에 미리 알려주시면 모두가 일정 조율하기 좋아요.  
