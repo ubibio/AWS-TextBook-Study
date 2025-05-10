@@ -149,7 +149,7 @@
 
 <div align="center">
 
-  [출석 현황 보러가기](https://github.com/roxie-dev/NestJS-Book-Study/discussions/6)
+  [출석 현황 보러가기](https://github.com/roxie-dev/AWS-TextBook-Study/discussions/1)
 
 </div>
 
