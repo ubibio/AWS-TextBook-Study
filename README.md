@@ -1,6 +1,7 @@
  
+ 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=roxie-dev.AWS-TextBook-Study)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/roxie-dev/NestJS-Book-Study&count_bg=%2379C83D&title_bg=%235B5E66&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 #  <div align="center"> 📖 [AWS 교과서] 북 스터디 📖  </div>
 
   
