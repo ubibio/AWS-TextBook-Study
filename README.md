@@ -181,6 +181,15 @@
       <br/>
       <a href="https://github.com/dkmqflx"><b>@Dohyun Kim</b></a> 
     </td>
+   <td align="center"> 
+      <img src="https://avatars.githubusercontent.com/u/55564829?v=4" width="100px;" alt="배진우"/>  
+      <br/>
+      <img src="https://img.shields.io/badge/출석률-0%2F4-blue?style=flat-square"/>  
+      <br/>
+      배진
+      <br/>
+      <a href="https://github.com/baezzys"><b>@Jinwoo</b></a> 
+    </td>
   </tr>
 </table>
 </div>
