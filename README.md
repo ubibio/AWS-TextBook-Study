@@ -170,8 +170,16 @@
       김민정
       <br/>
       <a href="https://github.com/MinJeung-Kim"><b>@MinJeung-Kim</b></a> 
+    </td> 
+    <td align="center"> 
+      <img src="https://avatars.githubusercontent.com/u/42763164?v=4" width="100px;" alt="김도현"/>  
+      <br/>
+      <img src="https://img.shields.io/badge/출석률-0%2F4-blue?style=flat-square"/>  
+      <br/>
+      김도현
+      <br/>
+      <a href="https://github.com/dkmqflx"><b>@Dohyun Kim</b></a> 
     </td>
-     
   </tr>
 </table>
 </div>
