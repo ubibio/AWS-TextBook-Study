@@ -186,7 +186,7 @@
       <br/>
       <img src="https://img.shields.io/badge/출석률-0%2F4-blue?style=flat-square"/>  
       <br/>
-      배진
+      배진우
       <br/>
       <a href="https://github.com/baezzys"><b>@Jinwoo</b></a> 
     </td>
