@@ -190,6 +190,15 @@
       <br/>
       <a href="https://github.com/baezzys"><b>@Jinwoo</b></a> 
     </td>
+   <td align="center"> 
+      <img src="https://avatars.githubusercontent.com/u/12108691?v=4" width="100px;" alt="신상철"/>  
+      <br/>
+      <img src="https://img.shields.io/badge/출석률-0%2F4-blue?style=flat-square"/>  
+      <br/>
+      신상철
+      <br/>
+      <a href="https://github.com/ubibio"><b>@ubibio</b></a> 
+    </td>
   </tr>
 </table>
 </div>
