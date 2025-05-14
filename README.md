@@ -143,7 +143,7 @@
   </tr> 
  <tr>
     <td>협의</td>
-    <td colspan="5"> <b>오프라인 회식</b></td> 
+    <td colspan="5"> <b>오프라인 회식(익명 투표로 결정)</b></td> 
   </tr>  
 </table> 
 </div>
