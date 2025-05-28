@@ -79,12 +79,8 @@
     <td rowspan="3">5/21(수)</td>
     <td> <b>[1장] AWS란</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
-    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td>
-<<<<<<< HEAD
-    <td rowspan="3"> <b>김도현</b></td> 
-=======
-    <td rowspan="3"> <b>김민정</b></td> 
->>>>>>> 0ed0dec (Add: 1주차 정리)
+    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td> 
+    <td rowspan="3"> <b>김도현</b></td>  
   </tr> 
    <tr> 
     <td> <b>[2장] AWS 컴퓨팅 서비스</b></td>
@@ -101,12 +97,8 @@
     <td rowspan="3">5/28(수)</td>
     <td> <b>[4장] AWS 부하분산 서비스</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/2%EC%A3%BC/%5B4%EC%9E%A5%5D%20AWS%20%EB%B6%80%ED%95%98%EB%B6%84%EC%82%B0%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td>
-    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td>
-<<<<<<< HEAD
-    <td rowspan="3"> <b>배진우</b></td> 
-=======
-    <td rowspan="3"> <b>김민정</b></td> 
->>>>>>> 0ed0dec (Add: 1주차 정리)
+    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td> 
+    <td rowspan="3"> <b>배진우</b></td>  
   </tr>
   <tr> 
     <td> <b>[5장] AWS 스토리지 서비스</b></td>
@@ -124,12 +116,8 @@
     <td rowspan="3">6/4(수)</td>
     <td> <b>[7장] AWS 고급 네트워킹 서비스</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/3%EC%A3%BC/%5B7%EC%9E%A5%5D%20AWS%20%EA%B3%A0%EA%B8%89%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td>
-    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td>
-<<<<<<< HEAD
-    <td rowspan="3"> <b>신상철</b></td> 
-=======
-    <td rowspan="3"> <b>김민정</b></td> 
->>>>>>> 0ed0dec (Add: 1주차 정리)
+    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td> 
+    <td rowspan="3"> <b>신상철</b></td>  
   </tr>
   <tr> 
     <td> <b>[8장] AWS LAM 서비스</b></td>
@@ -154,12 +142,8 @@
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/4%EC%A3%BC/%5B11%EC%9E%A5%5D%20%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%20%EC%9D%B4%EC%A4%91%ED%99%94">정리</a></td> 
   </tr> 
  <tr>
-    <td>협의</td>
-<<<<<<< HEAD
-    <td colspan="5"> <b>오프라인 회식(익명 투표로 결정)</b></td> 
-=======
-    <td colspan="5"> <b>오프라인 회식</b></td> 
->>>>>>> 0ed0dec (Add: 1주차 정리)
+    <td>협의</td> 
+    <td colspan="5"> <b>오프라인 회식(익명 투표로 결정)</b></td>  
   </tr>  
 </table> 
 </div>
@@ -181,12 +165,8 @@
   <tr>
     <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민정"/>  
-      <br/>
-<<<<<<< HEAD
-      <img src="https://img.shields.io/badge/출석률-1%2F4-blue?style=flat-square"/>  
-=======
-      <img src="https://img.shields.io/badge/출석률-0%2F4-blue?style=flat-square"/>  
->>>>>>> 0ed0dec (Add: 1주차 정리)
+      <br/> 
+      <img src="https://img.shields.io/badge/출석률-1%2F4-blue?style=flat-square"/>   
       <br/>
       김민정
       <br/>
@@ -194,12 +174,8 @@
     </td> 
     <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/42763164?v=4" width="100px;" alt="김도현"/>  
-      <br/>
-<<<<<<< HEAD
-      <img src="https://img.shields.io/badge/출석률-1%2F4-blue?style=flat-square"/>  
-=======
-      <img src="https://img.shields.io/badge/출석률-0%2F4-blue?style=flat-square"/>  
->>>>>>> 0ed0dec (Add: 1주차 정리)
+      <br/> 
+      <img src="https://img.shields.io/badge/출석률-1%2F4-blue?style=flat-square"/>   
       <br/>
       김도현
       <br/>
@@ -207,18 +183,13 @@
     </td>
    <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/55564829?v=4" width="100px;" alt="배진우"/>  
-      <br/>
-<<<<<<< HEAD
-      <img src="https://img.shields.io/badge/출석률-1%2F4-blue?style=flat-square"/>  
-=======
-      <img src="https://img.shields.io/badge/출석률-0%2F4-blue?style=flat-square"/>  
->>>>>>> 0ed0dec (Add: 1주차 정리)
+      <br/> 
+      <img src="https://img.shields.io/badge/출석률-1%2F4-blue?style=flat-square"/>   
       <br/>
       배진우
       <br/>
       <a href="https://github.com/baezzys"><b>@Jinwoo</b></a> 
-    </td>
-<<<<<<< HEAD
+    </td> 
    <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/12108691?v=4" width="100px;" alt="신상철"/>  
       <br/>
@@ -227,9 +198,7 @@
       신상철
       <br/>
       <a href="https://github.com/ubibio"><b>@ubibio</b></a> 
-    </td>
-=======
->>>>>>> 0ed0dec (Add: 1주차 정리)
+    </td> 
   </tr>
 </table>
 </div>
