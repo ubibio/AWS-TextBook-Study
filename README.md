@@ -79,7 +79,7 @@
     <td rowspan="3">5/21(수)</td>
     <td> <b>[1장] AWS란</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/1%EC%A3%BC/%5B1%EC%9E%A5%5D%20AWS%EB%9E%80">정리</a></td>  
-    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td> 
+    <td rowspan="3"><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
     <td rowspan="3"> <b>김도현</b></td>  
   </tr> 
    <tr> 
@@ -97,7 +97,7 @@
     <td rowspan="3">5/28(수)</td>
     <td> <b>[4장] AWS 부하분산 서비스</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/2%EC%A3%BC/%5B4%EC%9E%A5%5D%20AWS%20%EB%B6%80%ED%95%98%EB%B6%84%EC%82%B0%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td>
-    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td> 
+    <td rowspan="3"><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
     <td rowspan="3"> <b>배진우</b></td>  
   </tr>
   <tr> 
@@ -116,7 +116,7 @@
     <td rowspan="3">6/4(수)</td>
     <td> <b>[7장] AWS 고급 네트워킹 서비스</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/3%EC%A3%BC/%5B7%EC%9E%A5%5D%20AWS%20%EA%B3%A0%EA%B8%89%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4">정리</a></td>
-    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td> 
+    <td rowspan="3"><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td> 
     <td rowspan="3"> <b>신상철</b></td>  
   </tr>
   <tr> 
@@ -134,7 +134,7 @@
     <td rowspan="2">6/11(수)</td>
     <td> <b>[10장] 워드프레스</b></td>
     <td><a href="https://github.com/roxie-dev/AWS-TextBook-Study/tree/main/4%EC%A3%BC/%5B10%EC%9E%A5%5D%20%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4">정리</a></td>
-    <td rowspan="2"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td>
+    <td rowspan="2"><a href="https://github.com/roxie-dev/AWS-TextBook-Study/discussions/categories/q-a">문제</a></td>
     <td rowspan="2"> <b>김민정</b></td> 
   </tr>
    <tr> 
