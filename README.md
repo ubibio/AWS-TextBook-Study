@@ -166,7 +166,7 @@
     <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민정"/>  
       <br/> 
-      <img src="https://img.shields.io/badge/출석률-1%2F4-blue?style=flat-square"/>   
+      <img src="https://img.shields.io/badge/출석률-2%2F4-blue?style=flat-square"/>   
       <br/>
       김민정
       <br/>
@@ -175,7 +175,7 @@
     <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/42763164?v=4" width="100px;" alt="김도현"/>  
       <br/> 
-      <img src="https://img.shields.io/badge/출석률-1%2F4-blue?style=flat-square"/>   
+      <img src="https://img.shields.io/badge/출석률-2%2F4-blue?style=flat-square"/>   
       <br/>
       김도현
       <br/>
@@ -184,7 +184,7 @@
    <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/55564829?v=4" width="100px;" alt="배진우"/>  
       <br/> 
-      <img src="https://img.shields.io/badge/출석률-1%2F4-blue?style=flat-square"/>   
+      <img src="https://img.shields.io/badge/출석률-2%2F4-blue?style=flat-square"/>   
       <br/>
       배진우
       <br/>
@@ -193,7 +193,7 @@
    <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/12108691?v=4" width="100px;" alt="신상철"/>  
       <br/>
-      <img src="https://img.shields.io/badge/출석률-1%2F4-blue?style=flat-square"/>  
+      <img src="https://img.shields.io/badge/출석률-2%2F4-blue?style=flat-square"/>  
       <br/>
       신상철
       <br/>
